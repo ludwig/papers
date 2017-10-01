@@ -1,0 +1,378 @@
+
+---
+title: "WaveNet: A Generative Model Model for Raw Audio"
+year: 2016
+group: Google DeepMind
+classic: true
+arxiv: https://arxiv.org/abs/1609.03499
+file_url: https://arxiv.org/pdf/1609.03499.pdf
+notes: |
+    Main page is located at https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+
+---
+title: "A Deep Learning Approach for Generalized Speech Animation"
+journal: SIGGRAPH
+year: 2017
+url: https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20170718091716/A-Deep-Learning-Approach-for-Generalized-Speech-Animation-Paper.pdf
+filename: A-Deep-Learning-Approach-for-Generalized-Speech-Animation-Paper.pdf
+notes: |
+    Research page at https://www.disneyresearch.com/publication/deep-learning-speech-animation/
+
+---
+title: "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"
+year: 2005
+classic: true
+arxiv: https://arxiv.org/abs/1502.03167
+file_url: https://arxiv.org/pdf/1502.03167.pdf
+notes: This is the mini-batch paper. Make sure to print this one.
+
+---
+title: "The Microsoft 2017 Conversational Speech Recognition System"
+year: 2017
+journal: Microsoft AI and Research
+file_url: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/ms_swbd17-2.pdf
+notes: not good? see hn thread https://news.ycombinator.com/item?id=15062546
+
+---
+title: "Look, Listen and Learn"
+group: Google DeepMind
+year: 2017
+arxiv: https://arxiv.org/abs/1705.08168
+file_url: https://arxiv.org/pdf/1705.08168.pdf
+filename: "Look, Listen and Learn (1705.08168).pdf"
+
+---
+title: "Towards Biologically Plausible Deep Learning"
+year: 2016
+arxiv: https://arxiv.org/abs/1502.04156
+file_url: https://arxiv.org/pdf/1502.04156.pdf
+filename: null
+
+---
+title: "Latent Dirichlet Allocation"
+year: 2003
+authors:
+- David M. Blei
+- Andrew Y. Ng
+- Michael I. Jordan
+file_url: http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
+filename: blei03a.pdf
+notes: |
+    There's another url. Check if the content is any different.
+    http://ai.stanford.edu/~ang/papers/nips01-lda.pdf
+
+---
+title: "Efficient Estimation of Word Representations in Vector Space"
+year: 2013
+authors:
+- Tomas Mikolov
+- Kai Chen
+- Greg Corrado
+- Jeffrey Dean
+classic: true
+arxiv: https://arxiv.org/abs/1301.3781
+file_url: https://arxiv.org/pdf/1301.3781.pdf
+filename: "Efficient Estimation of Word Representations in Vector Space (1301.3781).pdf"
+
+---
+title: "word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method"
+year: 2014
+arxiv: https://arxiv.org/abs/1402.3722
+file_url: https://arxiv.org/pdf/1402.3722.pdf
+filename: "word2vec Explained (1402.3722).pdf"
+
+---
+title: "Distributed Representations of Words and Phrases and their Compositionality"
+arxiv: https://arxiv.org/abs/1310.4546
+file_url: https://arxiv.org/pdf/1310.4546.pdf
+filename: "Distributed Representations of Words and Phrases and their Compositionality (1310.4546).pdf"
+
+---
+title: "Distributed Representations of Sentences and Documents"
+year: 2014
+classic: true
+arxiv: https://arxiv.org/abs/1405.4053
+file_url: https://arxiv.org/pdf/1405.4053.pdf
+filename: "Distributed Representations of Sentences and Documents (1405.4053).pdf"
+notes: This is the doc2vec paper. Make sure to print this one too.
+
+---
+title: "Skip-Thought Vectors"
+arxiv: https://arxiv.org/abs/1506.06726
+file_url: https://arxiv.org/pdf/1506.06726.pdf
+filename: "Skip-Thought Vectors (1506.06726).pdf"
+
+---
+title: "word2vec Parameter Learning Explained"
+arxiv: https://arxiv.org/abs/1411.2738
+file_url: https://arxiv.org/pdf/1411.2738.pdf
+filename: "word2vec Parameter Learning Explained (1411.2738).pdf"
+
+---
+title: "Importance Sampling Techniques for Path Tracing in Participating Media"
+url: https://users.cg.tuwien.ac.at/zsolnai/gfx/volumetric-path-tracing-with-equiangular-sampling-in-2k/
+file_url: https://www.solidangle.com/research/egsr2012_volume.pdf
+filename: egsr2012_volume.pdf
+notes: |
+    There was a "Two Minute Papers" episode about this one.
+
+    How Do Hollywood Movies Render Smoke? | Two Minute Papers #127
+    https://www.youtube.com/watch?v=XbuEYcFfl6s
+
+---
+title: "Human-level control through deep reinforcement learning"
+year: 2015
+group: DeepMind
+doi: 10.1038/nature14236
+filename: mnih2015.pdf
+
+---
+title: "Audio-Driven Facial Animation by Joint End-to-End Learning of Pose and Emotion"
+url: http://research.nvidia.com/publication/2017-07_Audio-Driven-Facial-Animation
+file_url: http://research.nvidia.com/sites/default/files/publications/karras2017siggraph-paper_0.pdf
+filename: karras2017siggraph-paper_0.pdf
+notes: |
+    There was a "Two Minute Papers" episode about this one.
+
+    AI Creates Facial Animation From Audio | Two Minute Papers #185
+    https://www.youtube.com/watch?v=ZtP3gl_2kBM
+
+---
+title: "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation"
+year: 2016
+group: Google
+classic: true
+url: https://research.google.com/pubs/pub45610.html
+arxiv: https://arxiv.org/abs/1609.08144
+file_url: https://arxiv.org/pdf/1609.08144.pdf
+filename: "Google Neural Machine Translation System (1609.08144).pdf"
+notes: |
+    There's also a blog post about this one.
+    https://research.googleblog.com/2016/09/a-neural-network-for-machine.html
+
+---
+title: "Show and Tell: A Neural Image Caption Generator"
+year: 2015
+group: Google
+classic: true
+url: https://arxiv.org/abs/1411.4555
+file_url: https://arxiv.org/pdf/1411.4555.pdf
+filename: "A Neural Image Caption Generator (1411.4555).pdf"
+notes: This is the algorithm Google uses to auto-caption things.
+
+---
+title: "Machine Learning Applications for Data Center Optimization"
+year: 2014
+author: Jim Gao
+group: Google
+url: https://research.google.com/pubs/pub42542.html
+file_url: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42542.pdf
+filename: "google-datacenters-42542.pdf"
+
+---
+title: "Globally Normalized Transition-Based Neural Networks"
+year: 2016
+group: Google
+url: https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html
+arxiv: https://arxiv.org/abs/1603.06042
+file_url: https://arxiv.org/pdf/1603.06042.pdf
+filename: "Globally Normalized Transition-Based Neural Networks (1603.06042).pdf"
+notes: |
+    This is the SyntaxNet paper
+    https://github.com/tensorflow/models/tree/master/syntaxnet
+
+
+---
+title: "DRAGNN: A Transition-based Framework for Dynamically Connected Neural Networks"
+year: 2017
+group: Google
+url: https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html
+arxiv: https://arxiv.org/abs/1703.04474
+file_url: https://arxiv.org/pdf/1703.04474.pdf
+filename: "DRAGNN - A Transition-based Framework for Dynamically Connected Neural Networks (1703.04474).pdf"
+notes: This is a paper describing a major upgrade to SyntaxNet
+
+---
+title: "sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings"
+year: 2015
+arxiv: https://arxiv.org/abs/1511.06388
+file_url: https://arxiv.org/pdf/1511.06388.pdf
+filename: "sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings (1511.06388).pdf"
+notes: |
+    This paper descrives sense2vec, an improvement over word2vec
+    See this blog post too - https://explosion.ai/blog/sense2vec-with-spacy
+
+---
+title: "A vector space model for automatic indexing"
+year: 1975
+journal: Communications of the ACM
+url: http://dl.acm.org/citation.cfm?doid=361219.361220
+doi: 10.1145/361219.361220
+scihub: https://sci-hub.cc/10.1145/361219.361220
+notes: This paper introduced the TF-IDF model
+filename: salton1975.pdf
+
+---
+title: "The Why and How of Nonnegative Matrix Factorization"
+year: 2014
+url: https://arxiv.org/abs/1401.5226
+file_url: https://arxiv.org/pdf/1401.5226.pdf
+filename: null
+
+---
+title: "Understanding Neural Networks Through Deep Visualization"
+file_url: http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf
+filename: Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf
+notes: |
+    See also http://yosinski.com/deepvis
+
+---
+title: "Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec"
+url: https://arxiv.org/abs/1605.02019
+file_url: https://arxiv.org/pdf/1605.02019.pdf
+filename: "lda2vec (1605.02019).pdf"
+github: https://github.com/cemoody/lda2vec
+notes: This one is about lda2vec, obviously
+
+---
+title: "Topic2Vec: Learning Distributed Representations of Topics"
+url: https://arxiv.org/abs/1506.08422
+file_url: https://arxiv.org/pdf/1506.08422.pdf
+filename: "topic2vec (1506.08422).pdf"
+notes: linked from https://stats.stackexchange.com/questions/145485/lda-vs-word2vec
+
+---
+title: "Neural Word Embedding as Implicit Matrix Factorization"
+year: 2014
+journal: NIPS
+url: http://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization
+file_url: http://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf
+filename: 5477-neural-word-embedding-as-implicit-matrix-factorization.pdf
+notes: linked from https://stats.stackexchange.com/questions/145485/lda-vs-word2vec
+
+---
+title: "Deep Walk: Online Learning of Social Representations"
+url: https://arxiv.org/abs/1403.6652
+file_url: https://arxiv.org/pdf/1403.6652.pdf
+filename: "Deep Walk (1403.6652).pdf"
+
+---
+title: "Estimating the Number of Clusters in a Data Set Via the Gap Statistic"
+year: 2001
+url: https://www.researchgate.net/publication/4772044_Estimating_the_Number_of_Clusters_in_a_Data_Set_Via_the_Gap_Statistic
+file_url: http://web.stanford.edu/~hastie/Papers/gap.pdf
+filename: gap-statistic-for-estimating-number-of-clusters.pdf
+
+---
+title: "General Purpose Computer-Assisted Clustering and Conceptualization"
+year: 2011
+url: https://gking.harvard.edu/files/abs/discov-abs.shtml
+file_url: https://gking.harvard.edu/files/gking/files/201018067_online.pdf
+filename: 201018067_online.pdf
+notes: linked from https://stats.stackexchange.com/questions/6252/clustering-quality-measure
+
+---
+title: "Chainer: a Next-Generation Open Source Framework for Deep Learning"
+year: 2015
+file_url: http://learningsys.org/papers/LearningSys_2015_paper_33.pdf
+filename: LearningSys_2015_paper_33.pdf
+
+---
+title: "A Neural Probabilistic Language Model (2001)"
+year: 2001
+url: http://www.iro.umontreal.ca/~lisa/publications2/index.php/publications/show/64
+file_url: http://www.iro.umontreal.ca/~lisa/publications2/index.php/attachments/single/74
+filename: "A Neural Probabilistic Language Model (Bengio 2001).pdf"
+notes: |
+    linked from http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+    which mentions that word embeddings were originally developed in this paper
+
+---
+title: "A Neural Probabilistic Language Model (2003)"
+year: 2003
+journal: Journal of Machine Learning Research
+file_url: http://machinelearning.wustl.edu/mlpapers/paper_files/BengioDVJ03.pdf
+#filename: "A Neural Probabilistic Language Model (BengioDVJ03).pdf"
+filename: "A Neural Probabilistic Language Model (Bengio 2003).pdf"
+notes: |
+    linked from http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+    which mentions that word embeddings were originally developed in this paper
+
+---
+title: "Distributed Representations"
+url: https://www.cs.toronto.edu/~hinton/distrep.html
+file_url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.408.7684&rep=rep1&type=pdf
+filename: 10.1.1.408.7684.pdf
+notes: |
+    referenced at http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+    which mentions that this paper alludes to the concept of word embeddings
+
+---
+title: "Topic detection using paragraph vectors to support active learning in systematic reviews"
+url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4981645/
+scihub: https://sci-hub.cc/10.1016/j.jbi.2016.06.001
+filename: hashimoto2016.pdf
+notes: |
+    another url is at https://nactem.ac.uk/pvtopic/
+
+---
+title: "Hierarchical Probabilistic Neural Network Language Model"
+year: 2015
+file_url: https://www.iro.umontreal.ca/~lisa/pointeurs/hierarchical-nnlm-aistats05.pdf
+filename: hierarchical-nnlm-aistats05.pdf
+
+---
+title: "Document Embedding with Paragraph Vectors"
+year: 2015
+url: https://arxiv.org/abs/1507.07998
+file_url: https://arxiv.org/pdf/1507.07998.pdf
+filename: "Document Embedding with Paragraph Vectors (1507.07998).pdf"
+
+---
+title: "Learning representations by back-propagating errors"
+year: 1986
+journal: Nature
+authors:
+- David E. Rumelhart
+- Geoffrey E. Hinton
+- Ronald J. Williams
+file_url: https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf
+filename: backprop_old.pdf
+
+---
+title: "Deep Learning in Neural Networks: An Overview"
+year: 2014
+url: https://arxiv.org/abs/1404.7828
+file_url: https://arxiv.org/pdf/1404.7828.pdf
+filename: 1404.7828.pdf
+
+---
+title: "One-shot Learning with Memory-Augmented Neural Networks"
+year: 2016
+url: https://arxiv.org/abs/1605.06065
+file_url: https://arxiv.org/pdf/1605.06065.pdf
+filename: "One-shot Learning with Memory-Augmented Neural Networks (1605.06065).pdf"
+
+---
+title: "Matching Networks for One Shot Learning"
+year: 2016
+url: https://deepmind.com/research/publications/matching-networks-one-shot-learning/
+arxiv: https://arxiv.org/abs/1606.04080
+file_url: https://arxiv.org/pdf/1606.04080.pdf
+filename: "Matching Networks for One Shot Learning (1606.04080).pdf"
+
+---
+title: "Siamese Neural Networks for One-shot Image Recognition"
+url: https://sorenbouma.github.io/blog/oneshot/
+file_url: http://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
+filename: "Siamese Neural Networks for One-shot Image Recognition.pdf"
+
+---
+title: "Zero-Shot Learning - The Good, the Bad and the Ugly"
+arxiv: https://arxiv.org/abs/1703.04394
+file_url: https://arxiv.org/pdf/1703.04394.pdf
+filename: "Zero-Shot Learning - The Good, the Bad and the Ugly (1703.04394).pdf"
+
+---
+title: "An embarrassingly simple approach to zero-shot learning"
+filename: "An embarrassingly simple approach to zero-shot learning.pdf"

@@ -1,0 +1,56 @@
+
+---
+title: "An introductory tutorial on kd-trees"
+file_url: http://www.ri.cmu.edu/pub_files/pub1/moore_andrew_1991_1/moore_andrew_1991_1.pdf
+filename: moore_andrew_1991_1.pdf
+related:
+- https://www.google.com/search?q=andrew+moore+kd-trees
+- https://www.cs.cmu.edu/~awm/animations/kdtree/
+
+
+---
+title: "word embeddings: what, how and whither"
+author: Yoav Goldberg
+type: slides
+file_url: http://u.cs.biu.ac.il/~yogo/cvsc2015.pdf
+filename: cvsc2015.pdf
+related:
+- http://nlpx.net/archives/330
+
+---
+title: "Variational Inference for LDA"
+author: Zhao Zhou
+type: slides
+file_url: http://www.cse.ust.hk/~lzhang/teach/6931a/slides/lda-zhou.pdf
+filename: lda-zhou.pdf
+notes: from google search "lda variational inference"
+
+---
+title: "Cluster Validation: Methods for Clustering and Classification (Lecture 2)"
+type: slides
+file_url: https://jonathantemplin.com/files/clustering/psyc993_03.pdf
+filename: psyc993_03.pdf
+notes: from google search "assessing quality of clustering algorithm"
+
+---
+title: "Clustering Algorithms and Evaluations"
+type: fragment
+file_url: http://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte/theses/phd/algorithm.pdf
+filename: schulte-phd-thesis-ch4-cluster-algorithms.pdf
+notes: |
+    from http://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte/
+    related google search "assessing quality of clustering algorithm"
+
+
+---
+title: "Unsupervised Learning: Model Selection and Evaluation"
+type: slides
+file_url: http://web.engr.oregonstate.edu/~xfern/classes/cs534/notes/Unsupervised-model-11.pdf
+filename: "CS534 - Unsupervised-model-11.pdf"
+notes: from google search "unsupervised algorithm clustering mutual information"
+
+---
+title: "C++17 in Detail"
+filename: cpp17detail.pdf
+notes: see http://www.bfilipek.com/2017/09/c17-in-detail-summary-bonus.html
+

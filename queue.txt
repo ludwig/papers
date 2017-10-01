@@ -1,0 +1,15 @@
+
+
+Densely Connected Convolutional Networks
+https://arxiv.org/abs/1608.06993
+https://twitter.com/soumithchintala/status/888845085827366912
+https://www.google.com/search?q=CVPR+conference
+https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition
+
+High-Fidelity Quantum Logic Gates Using Trapped-Ion Hyperfine Qubits
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.060504
+http://www.techradar.com/news/computing-components/quantum-computers-just-took-a-huge-logical-leap-forward-1326213
+
+StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
+https://arxiv.org/pdf/1612.03242v1.pdf
+

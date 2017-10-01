@@ -1,0 +1,34 @@
+---
+title: A Fast Learning Algorithm for Deep Belief Nets
+authors:
+- Geoffrey E. Hinton
+- Simon Osindero
+- Yee-Whye Teh
+year: 2006
+classic: true
+file_url: https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf
+
+---
+title: The Use of Multiple Measurements in Taxonomic Problems
+author: R. A. Fisher
+year: 1936
+journal: Annals of Eugenics
+doi: 10.1111/j.1469-1809.1936.tb02137.x
+classic: true
+file_url: http://rcs.chemometrics.ru/Tutorials/classification/Fisher.pdf
+notes: |
+    Found this paper in the references section of https://en.wikipedia.org/wiki/Iris_flower_data_set
+
+    The Iris dataset is available here
+    https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+
+---
+title: Random Forests
+author: Leo Breiman
+year: 2001
+journal: Machine Learning
+classic: true
+doi: 10.1023/A:1010933404324
+filename: breiman2001.pdf
+
+

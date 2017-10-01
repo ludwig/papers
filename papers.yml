@@ -1,0 +1,94 @@
+
+---
+title: "MeshGit: Diffing and Merging Meshes for Polygonal Modeling"
+year: 2013
+journal: SIGGRAPH
+url: http://pellacini.di.uniroma1.it/publications/meshgit13/meshgit13.html
+file_url: http://pellacini.di.uniroma1.it/publications/meshgit13/meshgit13-paper.pdf
+talk_url: http://pellacini.di.uniroma1.it/publications/meshgit13/meshgit13-talk.pdf
+code_url: http://pellacini.di.uniroma1.it/publications/meshgit13/meshgit13-code.zip
+filename: meshgit13-paper.pdf
+notes: |
+    There was a "Two Minute Papers" episode about this
+    https://www.youtube.com/watch?v=p-u2NZ4vUxI
+
+
+---
+title: "Redefine statistical significance"
+year: 2017
+journal: Nature
+url: https://www.nature.com/articles/s41562-017-0189-z.epdf
+notes: see also https://news.ycombinator.com/item?id=15192610
+filename: Benjamin_et_al-2017-Nature_Human_Behaviour.pdf
+
+---
+title: "Auto-Encoding Variational Bayes"
+year: 2014
+url: https://arxiv.org/abs/1312.6114
+file_url: https://arxiv.org/pdf/1312.6114.pdf
+filename: "Auto-Encoding Variational Bayes (1312.6114).pdf"
+notes: paper on Variational Autoencoders (VAE)
+
+---
+title: "The Generalized Reparameterization Gradient"
+url: https://arxiv.org/abs/1610.02287
+notes: linked from http://artem.sobolev.name/posts/2017-09-10-stochastic-computation-graphs-continuous-case.html
+
+---
+title: "Structured Attention Networks"
+url: https://arxiv.org/abs/1702.00887
+file_url: https://arxiv.org/pdf/1702.00887.pdf
+filename: "Structured Attention Networks (1702.00887).pdf"
+
+---
+title: "Improving Topic Models with Latent Feature Word Representations"
+year: 2015
+url: https://transacl.org/ojs/index.php/tacl/article/view/582/158
+file_url: https://transacl.org/ojs/index.php/tacl/article/download/582/158
+filename: 582-1905-2-PB.pdf
+notes: linked from https://stackoverflow.com/questions/32979254/using-word2vec-for-topic-modeling
+
+---
+title: "Topical Word Embeddings"
+year: 2015
+url: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9314
+file_url: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9314/9535
+filename: 9314-44408-1-PB.pdf
+notes: linked from https://stackoverflow.com/questions/32979254/using-word2vec-for-topic-modeling
+
+---
+title: "Gaussian LDA for Topic Models with Word Embeddings"
+year: 2015
+github: https://github.com/rajarshd/Gaussian_LDA
+url: http://rajarshd.github.io/papers/acl2015.pdf
+filename: "Gaussian LDA (P15-1077).pdf"
+notes: mentioned at https://stackoverflow.com/questions/32979254/using-word2vec-for-topic-modeling
+
+---
+title: "A Collapsed Variational Bayesian Inference Algorithm for Latent Dirichlet Allocation"
+url: https://papers.nips.cc/paper/3113-a-collapsed-variational-bayesian-inference-algorithm-for-latent-dirichlet-allocation.pdf
+filename: 3113-a-collapsed-variational-bayesian-inference-algorithm-for-latent-dirichlet-allocation.pdf
+notes: |
+    See also from related google search
+
+    Variational Inference for LDA
+    http://www.cse.ust.hk/~lzhang/teach/6931a/slides/lda-zhou.pdf
+
+---
+title: "Hierarchical Clustering of Words and Application to NLP Tasks"
+file_url: http://aclweb.org/anthology/W96-0103
+filename: W96-0103.pdf
+
+---
+title: "Unsupervised and Supervised Clustering: The Mutual Information Between Parameters and Observations"
+file_url: https://papers.nips.cc/paper/1625-unsupervised-and-supervised-clustering-the-mutual-information-between-parameters-and-observations.pdf
+filename: 1625-unsupervised-and-supervised-clustering-the-mutual-information-between-parameters-and-observations.pdf
+notes: from google search "unsupervised algorithm clustering mutual information"
+
+---
+title: "Neural Optimizer Search with Reinforcement Learning"
+year: 2017
+url: https://arxiv.org/abs/1709.07417
+file_url: https://arxiv.org/pdf/1709.07417.pdf
+filename: 1709.07417.pdf
+
