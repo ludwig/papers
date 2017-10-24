@@ -376,3 +376,42 @@ filename: "Zero-Shot Learning - The Good, the Bad and the Ugly (1703.04394).pdf"
 ---
 title: "An embarrassingly simple approach to zero-shot learning"
 filename: "An embarrassingly simple approach to zero-shot learning.pdf"
+
+---
+title: "Generalization in Deep Learning"
+year: 2017
+url: https://arxiv.org/abs/1710.05468
+file_url: https://arxiv.org/pdf/1710.05468.pdf
+filename: "Generalization in Deep Learning (1710.05468).pdf"
+notes: HN thread https://news.ycombinator.com/item?id=15488202
+
+---
+title: "Mastering the Game of Go without Human Knowledge"
+year: 2017
+journal: Nature
+filename: null
+printed: true
+
+---
+title: "Understanding Deep Learning Requires Rethinking Generalization"
+year: 2017
+filename: null
+printed: true
+
+---
+title: "The Loss Surfaces of Multilayer Networks"
+year: 2015
+filename: null
+printed: true
+
+---
+title: "A Closer Look at Memorization in Deep Networks"
+year: 2017
+filename: null
+printed: true
+
+---
+title: "Gender-From-Iris or Gender-From-Mascara?"
+year: 2017
+filename: null
+printed: true
