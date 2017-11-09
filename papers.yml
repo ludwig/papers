@@ -92,3 +92,13 @@ url: https://arxiv.org/abs/1709.07417
 file_url: https://arxiv.org/pdf/1709.07417.pdf
 filename: 1709.07417.pdf
 
+---
+title: "ImageNet Large Scale Visual Recognition Challenge"
+url: https://arxiv.org/abs/1409.0575
+notes: linked from http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/
+toprint: true
+
+---
+title: "Pixel Recurrent Neural Networks"
+url: http://proceedings.mlr.press/v48/oord16.pdf
+notes: Pixel RNNs - linked from http://icml.cc/2016/?page_id=2009 and https://avdnoord.github.io/homepage/
