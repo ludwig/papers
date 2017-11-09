@@ -9,3 +9,16 @@ notes: |
     See also this video by minutephysics
     https://www.youtube.com/watch?v=zcqZHYo7ONs
 
+---
+title: "Solving a Higgs optimization problem with quantum annealing for machine learning"
+url: https://www.nature.com/nature/journal/v550/n7676/full/nature24047.html
+journal: Nature
+doi: https://dx.doi.org/10.1038/nature24047
+filename: 10.1038@nature24047.pdf
+notes: linked from http://www.caltech.edu/news/physics-boosts-artificial-intelligence-methods-80127
+
+---
+title: "Ultimate physical limits to computation"
+file_url: https://arxiv.org/pdf/quant-ph/9908043.pdf
+filename: "Ultimate physical limits to computation (9908043).pdf"
+notes: referenced from 'Computing Limit - Computerphile' video at https://www.youtube.com/watch?v=jv2H9fp9dT8
