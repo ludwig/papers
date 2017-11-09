@@ -415,3 +415,91 @@ title: "Gender-From-Iris or Gender-From-Mascara?"
 year: 2017
 filename: null
 printed: true
+
+---
+title: "The TileDB Array Data Storage Manager"
+file_url: https://people.csail.mit.edu/stavrosp/papers/vldb2017/VLDB17_TileDB.pdf
+filename: VLDB17_TileDB.pdf
+printed: false
+notes: HN thread https://news.ycombinator.com/item?id=15547749
+
+---
+title: "Combining Policy Gradient and Q-Learning"
+year: 2017
+url: https://arxiv.org/abs/1611.01626
+file_url: https://arxiv.org/pdf/1611.01626.pdf
+filename: "Combining Policy Gradient and Q-Learning (1611.01626).pdf"
+printed: false
+
+---
+title: "Generative Adversarial Networks: An Overview"
+url: https://arxiv.org/abs/1710.07035
+file_url: https://arxiv.org/pdf/1710.07035.pdf
+filename: "Generative Adversarial Networks - An Overview (1710.07035).pdf"
+printed: false
+
+---
+title: "First-order Methods Almost Always Avoid Saddle Points"
+url: https://arxiv.org/abs/1710.07406v1
+file_url: https://arxiv.org/pdf/1710.07406v1.pdf
+filename: 1710.07406v1.pdf
+printed: false
+
+---
+title: "Optimizing Neural Networks with Kronecker-factored Approximate Curvature"
+url: https://arxiv.org/abs/1503.05671
+file_url: https://arxiv.org/pdf/1503.05671.pdf
+
+---
+title: "Decoupled Neural Interfaces using Synthetic Gradients"
+url: https://arxiv.org/abs/1608.05343
+file_url: https://arxiv.org/pdf/1608.05343.pdf
+filename: "Decoupled Neural Interfaces using Synthetic Gradients (1608.05343).pdf"
+printed: false
+
+---
+title: "How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation"
+url: https://arxiv.org/abs/1407.7906
+printed: false
+
+---
+title: "Transfer learning for music classification and regression tasks"
+url: https://arxiv.org/abs/1703.09179
+notes: linked from http://deliprao.com/archives/251
+printed: false
+
+---
+title: "Listening to the World Improves Speech Command Recognition"
+url: https://arxiv.org/abs/1710.08377
+notes: linked from http://deliprao.com/archives/251
+printed: false
+
+---
+title: "Weld: Rethinking the Interface Between Data-Intensive Applications"
+url: http://weld.stanford.edu/
+github: https://github.com/weld-project/weld
+arxiv: https://arxiv.org/abs/1709.06416
+file_url: https://arxiv.org/pdf/1709.06416.pdf
+printed: false
+
+---
+title: "Neural Discrete Representation Learning"
+url: https://avdnoord.github.io/homepage/vqvae/
+arxiv: https://arxiv.org/abs/1711.00937
+file_url: https://arxiv.org/pdf/1711.00937.pdf
+filename: "Neural Discrete Representation Learning (1711.00937).pdf"
+
+---
+title: "Dynamic Topic Models"
+url: http://icml.cc/2016/awards/dtm.pdf
+filename: "Dynamic Topic Models (ICML 2016, dtm).pdf"
+printed: false
+notes: linked from http://icml.cc/2016/?page_id=2009
+
+---
+title: "Greedy Function Approximation: A Gradient Boosting Machine"
+author: Jerome H. Friedman
+year: 2001
+file_url: https://statweb.stanford.edu/~jhf/ftp/trebst.pdf
+filename: trebst.pdf
+notes: linked from http://xgboost.readthedocs.io/en/latest/model.html
