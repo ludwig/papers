@@ -1,3 +1,13 @@
+---
+title: "Deep Learning"
+journal: Nature
+year: 2015
+authors:
+- Yann LeCun
+- Yoshua Bengio
+- Geoffrey Hinton
+url: https://www.nature.com/articles/nature14539
+filename: "Deep Learning - lecun2015.pdf"
 
 ---
 title: "WaveNet: A Generative Model Model for Raw Audio"
@@ -503,3 +513,14 @@ year: 2001
 file_url: https://statweb.stanford.edu/~jhf/ftp/trebst.pdf
 filename: trebst.pdf
 notes: linked from http://xgboost.readthedocs.io/en/latest/model.html
+
+---
+title: "Deep Residual Learning for Image Recognition"
+year: 2015
+arxiv: https://arxiv.org/abs/1512.03385
+notes: linked from http://teleported.in/posts/decoding-resnet-architecture/
+
+---
+title: "node2vec: Scalable Feature Learning for Networks"
+year: 2016
+arxiv: https://arxiv.org/abs/1607.00653
