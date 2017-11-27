@@ -562,3 +562,60 @@ file_url: https://www.cse.iitb.ac.in/~pjyothi/cs753/EM.pdf
 filename: "Maximum Likelihood from Incomplete Data via the EM Algorithm (1977).pdf"
 notes: referenced as an aside in https://www.youtube.com/watch?v=FkckgwMHP2s
 
+---
+title: "Signature Verification using a \"Siamese\" Time Delay Neural Network"
+year: 1994
+file_url: https://papers.nips.cc/paper/769-signature-verification-using-a-siamese-time-delay-neural-network.pdf
+filename: 769-signature-verification-using-a-siamese-time-delay-neural-network.pdf
+notes: linked from https://www.quora.com/What-are-Siamese-neural-networks-what-applications-are-they-good-for-and-why
+
+---
+title: "ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs"
+year: 2016
+arxiv: https://arxiv.org/abs/1512.05193v3
+file_url: https://arxiv.org/pdf/1512.05193v3.pdf
+filename: 1512.05193v3.pdf
+notes: linked from https://www.quora.com/What-are-Siamese-neural-networks-what-applications-are-they-good-for-and-why
+
+---
+title: "Convolutional Neural Networks for Sentence Classification"
+year: 2014
+file_url: http://www.aclweb.org/anthology/D14-1181
+filename: "Convolutional Neural Networks for Sentence Classification (D14-1181).pdf"
+notes: linked from https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a
+
+---
+title: "Text Understanding from Scratch"
+year: 2016
+arxiv: https://arxiv.org/abs/1502.01710
+file_url: https://arxiv.org/pdf/1502.01710.pdf
+filename: "Text Understanding from Scratch (1502.01710).pdf"
+notes: linked from https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a
+
+---
+title: "Neural Architectures for Named Entity Recognition"
+year: 2016
+file_url: http://www.aclweb.org/anthology/N16-1030
+filename: "Neural Architectures for Named Entity Recognition (N16-1030).pdf"
+notes: linked from https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a
+
+---
+title: "Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base"
+year: 2015
+file_url: http://www.aclweb.org/anthology/P15-1128
+filename: "Semantic Parsing via Staged Query Graph Generation (P15-1128).pdf"
+notes: linked from https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a
+
+---
+title: "Detecting Semantically Equivalent Questions in Online User Forums"
+year: 2015
+file_url: https://www.aclweb.org/anthology/K15-1013
+filename: "Detecting Semantically Equivalent Questions in Online User Forums (K15-1013).pdf"
+notes: linked from https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a
+
+---
+title: "Paraphrase Detection Using Recursive Autoencoder"
+year: 2011
+file_url: https://nlp.stanford.edu/courses/cs224n/2011/reports/ehhuang.pdf
+filename: "Paraphrase Detection Using Recursive Autoencoder (ehhuang 2011).pdf"
+notes: linked from https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a
