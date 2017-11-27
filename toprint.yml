@@ -524,3 +524,41 @@ notes: linked from http://teleported.in/posts/decoding-resnet-architecture/
 title: "node2vec: Scalable Feature Learning for Networks"
 year: 2016
 arxiv: https://arxiv.org/abs/1607.00653
+
+---
+title: "Fast R-CNN"
+year: 2015
+arxiv: https://arxiv.org/abs/1504.08083
+
+---
+title: "\"Why Should I Trust You?\": Explaining the Predictions of Any Classifier"
+arxiv: https://arxiv.org/abs/1602.04938
+file_url: https://arxiv.org/pdf/1602.04938.pdf
+filename: 1602.04938.pdf
+github: https://github.com/marcotcr/lime
+url: https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
+notes: about LIME (Local Interpretable Model-Agnostic Explanations)
+
+---
+title: "Interactive Example-Based Terrain Authoring with Conditional Generative Adversarial Networks"
+year: 2017
+file_url: https://hal.archives-ouvertes.fr/hal-01583706/file/tog.pdf
+filename: "Interactive Example-Based Terrain Authoring with Conditional Generative Adversarial Networks (2017).pdf"
+notes: linked from Two Minute Papers here https://www.youtube.com/watch?v=NEscK5RCtlo
+
+---
+title: "The Riemannian Geometry of Deep Generative Models"
+year: 2017
+arxiv: https://arxiv.org/abs/1711.08014
+file_url: https://arxiv.org/pdf/1711.08014.pdf
+filename: "The Riemannian Geometry of Deep Generative Models (1711.08014).pdf"
+
+---
+title: "Maximum Likelihood from Incomplete Data via the EM Algorithm"
+year: 1977
+google: https://www.google.com/search?q=em+algorithm+paper
+wikipedia: https://en.wikipedia.org/wiki/Expectation-maximization_algorithm
+file_url: https://www.cse.iitb.ac.in/~pjyothi/cs753/EM.pdf
+filename: "Maximum Likelihood from Incomplete Data via the EM Algorithm (1977).pdf"
+notes: referenced as an aside in https://www.youtube.com/watch?v=FkckgwMHP2s
+
