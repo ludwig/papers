@@ -102,3 +102,72 @@ toprint: true
 title: "Pixel Recurrent Neural Networks"
 url: http://proceedings.mlr.press/v48/oord16.pdf
 notes: Pixel RNNs - linked from http://icml.cc/2016/?page_id=2009 and https://avdnoord.github.io/homepage/
+
+---
+title: "Machine Learning: The High-Interest Credit Card of Technical Debt"
+url: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf
+filename: "Machine Learning - The High-Interest Credit Card of Technical Debt.pdf"
+notes: linked from https://petewarden.com/2017/11/13/deep-learning-is-eating-software/
+
+---
+title: "Accessible Independence Results for Peano Arithmetic"
+authors: Kirby and Paris
+journal: Bull. London Math. Soc
+year: 1982
+notes: |
+    This was mentioned in mentioned in Mathematical Hydra video https://www.youtube.com/watch?v=uWwUpEY4c8o
+    The citation there was:
+    Accessible Independence Results for Peano Arithmetic, Kirby and Paris, Bull. London Math. Soc. 1982; 14: 285-293
+
+---
+title: "Progressive Growing of GANs for Improved Quality, Stability, and Variation"
+year: 2017
+url: http://research.nvidia.com/publication/2017-10_Progressive-Growing-of
+file_url: http://research.nvidia.com/sites/default/files/publications/karras2017gan-paper-v2.pdf
+filename: karras2017gan-paper-v2.pdf
+notes: linked from https://www.youtube.com/watch?v=VrgYtFhVGmg
+
+---
+title: "Data Augmentation Generative Adversarial Networks"
+year: 2017
+arxiv: https://arxiv.org/abs/1711.04340
+toprint: true
+
+---
+title: "Finding the K Shortest Loopless Paths in a Network"
+author: Jin Y. Yen
+year: 1971
+file_url: http://people.csail.mit.edu/minilek/yen_kth_shortest.pdf
+filename: yen_kth_shortest.pdf
+notes: linked from https://en.wikipedia.org/wiki/K_shortest_path_routing
+
+---
+title: "Finding the k Shortest Paths"
+author: David Eppstein
+year: 1997
+file_url: https://static.aminer.org/pdf/PDF/001/059/121/finding_the_k_shortest_paths.pdf
+filename: eppstein_finding_the_k_shortest_paths.pdf
+notes: linked from https://en.wikipedia.org/wiki/K_shortest_path_routing
+
+---
+title: "Searching for Activation Functions"
+arxiv: https://arxiv.org/abs/1710.05941
+file_url: https://arxiv.org/pdf/1710.05941.pdf
+filename: "Searching for Activation Functions (1710.05941).pdf"
+notes: |
+    this paper talks about the "Swish activation function"
+    found via the search https://www.google.com/search?q=swish+activation+function
+    Note that v1 of this paper was titled "Swish: a Self-Gated Activation Function"
+
+---
+title: "Breaking the Softmax Bottleneck: A High-Rank RNN Language Model"
+arxiv: https://arxiv.org/abs/1711.03953
+file_url: https://arxiv.org/pdf/1711.03953.pdf
+filename: "Breaking the Softmax Bottleneck (1711.03953).pdf"
+notes: linked from http://smerity.com/articles/2017/mixture_of_softmaxes.html
+
+---
+title: "An Estimate of an Upper Bound for the Entropy of English"
+file_url: http://www.cs.cmu.edu/~roni/11761/PreviousYearsHandouts/gauntlet.pdf
+filename: "An Estimate of an Upper Bound for the Entropy of English (gauntlet).pdf"
+
