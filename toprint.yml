@@ -631,3 +631,20 @@ title: "The Nested Chinese Restaurant Process and Bayesian Nonparametric Inferen
 year: 2010
 file_url: https://cocosci.berkeley.edu/tom/papers/ncrp.pdf
 filename: "The Nested Chinese Restaurant Process and Bayesian Nonparametric Inference of Topic Hierarchies (ncrp 2010).pdf"
+
+---
+title: "Real-Time Motor Control using Recurrent Neural Networks"
+year: 2009
+file_url: https://homes.cs.washington.edu/~todorov/papers/HuhADPRL09.pdf
+filename: HuhADPRL09.pdf
+
+---
+title: "FastSLAM: A Factored Solution to the Simultaneous Localization and Mapping Problem"
+file_url: http://robots.stanford.edu/papers/montemerlo.fastslam-tr.pdf
+filename: montemerlo.fastslam-tr.pdf
+
+---
+title: "FastSLAM: An Efficient Solution to the Simultaneous Localization And Mapping Problem with Unknown Data Association"
+file_url: "https://ai.stanford.edu/~koller/Papers/Thrun+al:04b.pdf"
+filename: "FastSLAM (Thrun_04b).pdf"
+
