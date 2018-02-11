@@ -14,3 +14,20 @@ notes: check that I printed this one.
 url: http://math.ucr.edu/home/baez/Alex_Alaniz_Syllabus.pdf
 printed: true
 notes: check that I printed this one.
+
+---
+title: "An Introduction to Physically Based Modeling: Rigit Body Simulation II -- Unconstrained Rigid Body Dynamics"
+author: David Baraff
+url: https://www.cs.cmu.edu/~baraff/sigcourse/notesd1.pdf
+printed: false
+filename: "baraff-notesd1.pdf"
+notes: linked from youtube comment at https://www.youtube.com/watch?v=SDS5gLSiLg0
+
+---
+title: "An Introduction to Physically Based Modeling: Rigit Body Simulation II -- Nonpenetration Constraints"
+author: David Baraff
+url: https://www.cs.cmu.edu/~baraff/sigcourse/notesd2.pdf
+printed: false
+filename: "baraff-notesd2.pdf"
+notes: linked from youtube comment at https://www.youtube.com/watch?v=SDS5gLSiLg0
+
