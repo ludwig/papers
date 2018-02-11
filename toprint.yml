@@ -691,3 +691,10 @@ github: https://github.com/DmitryUlyanov/deep-image-prior
 file_url: https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf
 filename: deep_image_prior.pdf
 
+---
+title: "Neural Architecture Search with Reinforcement Learning"
+year: 2017
+arxiv: https://arxiv.org/abs/1611.01578
+file_url: https://arxiv.org/pdf/1611.01578.pdf
+filename: "Neural Architecture Search with Reinforcement Learning (1611.01578).pdf"
+
