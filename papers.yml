@@ -171,3 +171,48 @@ title: "An Estimate of an Upper Bound for the Entropy of English"
 file_url: http://www.cs.cmu.edu/~roni/11761/PreviousYearsHandouts/gauntlet.pdf
 filename: "An Estimate of an Upper Bound for the Entropy of English (gauntlet).pdf"
 
+---
+title: "Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution"
+author: Judea Perl
+year: 2018
+arxiv: https://arxiv.org/abs/1801.04016
+notes: linked from https://twitter.com/dustinvtran/status/952798779576541184
+
+---
+title: "Demystifying MMD GANs"
+arxiv: https://arxiv.org/abs/1801.01401
+year: 2018
+notes: linked from https://twitter.com/ArthurGretton/status/952902707840462850
+
+---
+title: "Generalizing Hamiltonian Monte Carlo with Neural Networks"
+year: 2018
+arxiv: https://arxiv.org/abs/1711.09268
+github: https://github.com/brain-research/l2hmc
+notes: linked from https://twitter.com/hardmaru/status/953560317044310016
+
+---
+title: "Visualizing the Loss Landscape of Neural Nets"
+year: 2017
+arxiv: https://arxiv.org/abs/1712.09913
+notes: |
+    seems to be linked from a lot of places
+    like http://www.inference.vc/sharp-vs-flat-minima-are-still-a-mystery-to-me/
+
+---
+title: "Sharp Minima Can Generalize For Deep Nets"
+year: 2017
+arxiv: https://arxiv.org/abs/1703.04933
+notes: linked from http://www.inference.vc/sharp-vs-flat-minima-are-still-a-mystery-to-me/
+
+---
+title: "Fine-tuned Language Models for Text Classification"
+arxiv: https://arxiv.org/abs/1801.06146
+notes: linked from https://twitter.com/ml_review/status/955217700766257152
+
+---
+title: "Poincaré Embeddings for Learning Hierarchical Representations"
+arxiv: https://arxiv.org/abs/1705.08039
+github: https://github.com/facebookresearch/poincare-embeddings
+notes: linked from https://twitter.com/mnick/status/956209954775420928
+
