@@ -648,3 +648,46 @@ title: "FastSLAM: An Efficient Solution to the Simultaneous Localization And Map
 file_url: "https://ai.stanford.edu/~koller/Papers/Thrun+al:04b.pdf"
 filename: "FastSLAM (Thrun_04b).pdf"
 
+---
+title: "Packet Routing in Dynamically Changing Networks: A Reinforcement Learning Approach"
+file_url: https://www.cs.cmu.edu/~jab/cv/pubs/boyan.q-routing.pdf
+filename: boyan.q-routing.pdf
+
+---
+title: "A Machine Learning Approach to Routing"
+year: 2017
+arxiv: https://arxiv.org/abs/1708.03074
+file_url: https://arxiv.org/pdf/1708.03074.pdf
+filename: "A Machine Learning Approach to Routing (1708.03074).pdf"
+
+---
+title: "A Tutorial about Random Neural Networks in Supervised Learning"
+year: 2016
+arxiv: https://arxiv.org/abs/1609.04846
+file_url: https://arxiv.org/pdf/1609.04846.pdf
+filename: "A Tutorial about Random Neural Networks in Supervised Learning (1609.04846).pdf"
+
+---
+title: "Why does deep and cheap learning work so well?"
+year:  2017
+arxiv: https://arxiv.org/abs/1608.08225
+file_url: https://arxiv.org/pdf/1608.08225.pdf
+filename: 1608.08225.pdf
+notes: linked from https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/
+
+---
+title: "A Theory of the Learnable"
+year: 1984
+author: L.G. Valiant
+file_url: http://web.mit.edu/6.435/www/Valiant84.pdf
+filename: "A Theory of the Learnable (Valiant84).pdf"
+notes: linked from https://en.wikipedia.org/wiki/Probably_approximately_correct_learning
+
+---
+title: "Deep Image Prior"
+year: 2017
+url: https://dmitryulyanov.github.io/deep_image_prior
+github: https://github.com/DmitryUlyanov/deep-image-prior
+file_url: https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf
+filename: deep_image_prior.pdf
+
