@@ -698,3 +698,14 @@ arxiv: https://arxiv.org/abs/1611.01578
 file_url: https://arxiv.org/pdf/1611.01578.pdf
 filename: "Neural Architecture Search with Reinforcement Learning (1611.01578).pdf"
 
+---
+title: "Evaluation Methods for Topic Models"
+file_url: https://mimno.infosci.cornell.edu/papers/wallach09evaluation.pdf
+filename: wallach09evaluation.pdf
+
+---
+title: "Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions"
+arxiv: https://arxiv.org/abs/1712.05884
+file_url: https://arxiv.org/pdf/1712.05884.pdf
+filename: "Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions  (1712.05884).pdf"
+notes: linked from Two Minute Papers at https://www.youtube.com/watch?v=bdM9c2OFYuw
