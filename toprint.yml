@@ -709,3 +709,17 @@ arxiv: https://arxiv.org/abs/1712.05884
 file_url: https://arxiv.org/pdf/1712.05884.pdf
 filename: "Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions  (1712.05884).pdf"
 notes: linked from Two Minute Papers at https://www.youtube.com/watch?v=bdM9c2OFYuw
+
+---
+title: "LocNet: Improving Localization Accuracy for Object Detection"
+arxiv: https://arxiv.org/abs/1511.07763
+file_url: https://arxiv.org/pdf/1511.07763.pdf
+github: https://github.com/gidariss/LocNet
+filename: "LocNet - Improving Localization Accuracy for Object Detection (1511.07763).pdf"
+notes: see also https://www.youtube.com/watch?v=UGqo8oeQZtw
+
+---
+title: "Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions"
+arxiv: https://arxiv.org/abs/1802.04730
+file_url: https://arxiv.org/pdf/1802.04730.pdf
+filename: "Tensor Comprehensions (1802.04730).pdf"
