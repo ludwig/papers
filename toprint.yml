@@ -723,3 +723,11 @@ title: "Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learn
 arxiv: https://arxiv.org/abs/1802.04730
 file_url: https://arxiv.org/pdf/1802.04730.pdf
 filename: "Tensor Comprehensions (1802.04730).pdf"
+
+---
+title: "PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes"
+year: 2017
+arxiv: https://arxiv.org/abs/1711.00199
+file_url: https://arxiv.org/pdf/1711.00199.pdf
+filename: "PoseCNN - A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes (1711.00199).pdf"
+

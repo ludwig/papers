@@ -216,3 +216,38 @@ arxiv: https://arxiv.org/abs/1705.08039
 github: https://github.com/facebookresearch/poincare-embeddings
 notes: linked from https://twitter.com/mnick/status/956209954775420928
 
+---
+title: "“Why Should I Trust You?” Explaining the Predictions of Any Classifier"
+file_url: http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf
+notes:
+    linked from "Why Should We Trust An AI? | Two Minute Papers #233" at https://www.youtube.com/watch?v=izZofvgaIig
+
+---
+title: "Neural Voice Cloning with a Few Samples"
+arxiv: https://arxiv.org/abs/1802.06006
+file_url: https://arxiv.org/pdf/1802.06006.pdf
+filename: "Neural Voice Cloning with a Few Samples (1802.06006).pdf"
+
+---
+title: "From Word Embeddings To Document Distances"
+file_url: http://mkusner.github.io/publications/WMD.pdf
+filename: "From Word Embeddings To Document Distances.pdf"
+
+---
+title: "Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks"
+file_url: http://www.cs.toronto.edu/~graves/icml_2006.pdf
+filename: "Connectionist Temporal Classification - Labelling Unsegmented Sequence Data with Recurrent Neural Networks (icml_2006).pdf"
+
+---
+title: "Very Deep Convolutional Networks for Large-Scale Image Recognition"
+arxiv: https://arxiv.org/abs/1409.1556
+file_url: https://arxiv.org/pdf/1409.1556.pdf
+filename: "Very Deep Convolutional Networks for Large-Scale Image Recognition (VGGNet - 1409.1556).pdf"
+notes: linked from https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+
+---
+title: "Domain Adaptive Faster R-CNN for Object Detection in the Wild"
+arxiv: https://arxiv.org/abs/1803.03243v1
+file_url: https://arxiv.org/pdf/1803.03243v1.pdf
+filename: "Domain Adaptive Faster R-CNN for Object Detection in the Wild (1803.03243v1).pdf"
+
