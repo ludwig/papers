@@ -731,3 +731,19 @@ arxiv: https://arxiv.org/abs/1711.00199
 file_url: https://arxiv.org/pdf/1711.00199.pdf
 filename: "PoseCNN - A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes (1711.00199).pdf"
 
+---
+title: "Understanding the difficulty of training deep feedforward neural networks"
+authors:
+- Xavier Glorot
+- Yoshua Bengio
+file_url: http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
+filename: glorot10a.pdf
+notes: This relates to initializing weights in a neural network (Xavier weight initialization)
+
+---
+title: "Ray: A Distributed Framework for Emerging AI Applications"
+year: 2017
+arxiv: https://arxiv.org/abs/1712.05889
+file_url: https://arxiv.org/pdf/1712.05889.pdf
+filename: "Ray - A Distributed Framework for Emerging AI Applications (1712.05889).pdf"
+
