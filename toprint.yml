@@ -747,3 +747,22 @@ arxiv: https://arxiv.org/abs/1712.05889
 file_url: https://arxiv.org/pdf/1712.05889.pdf
 filename: "Ray - A Distributed Framework for Emerging AI Applications (1712.05889).pdf"
 
+---
+title: "Evolution Strategies as a Scalable Alternative to Reinforcement Learning"
+year: 2017
+arxiv: https://arxiv.org/abs/1703.03864
+url: https://blog.openai.com/evolution-strategies/
+file_url: https://arxiv.org/pdf/1703.03864.pdf
+filename: "Evolution Strategies as a Scalable Alternative to Reinforcement Learning (1703.03864).pdf"
+
+---
+title: "Densely Connected Convolutional Networks (1608.06993).pdf"
+arxiv: https://arxiv.org/abs/1608.06993
+file_url: https://arxiv.org/pdf/1608.06993.pdf
+filename: "Densely Connected Convolutional Networks (1608.06993).pdf"
+
+---
+title: "Parallel Bayesian Global Optimization of Expensive Functions"
+arxiv: https://arxiv.org/abs/1602.05149
+file_url: https://arxiv.org/pdf/1602.05149.pdf
+filename: "Parallel Bayesian Global Optimization of Expensive Functions (1602.05149).pdf"
