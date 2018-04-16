@@ -133,8 +133,17 @@ notes: |
 title: "Human-level control through deep reinforcement learning"
 year: 2015
 group: DeepMind
+journal: Nature
 doi: 10.1038/nature14236
+file_url: https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
 filename: mnih2015.pdf
+
+---
+title: "Playing Atari with Deep Reinforcement Learning"
+year: 2013
+arxiv: https://arxiv.org/abs/1312.5602
+file_url: https://arxiv.org/pdf/1312.5602.pdf
+filename: "Playing Atari with Deep Reinforcement Learning (1312.5602).pdf"
 
 ---
 title: "Audio-Driven Facial Animation by Joint End-to-End Learning of Pose and Emotion"
