@@ -791,3 +791,17 @@ year: 2016
 arxiv: https://arxiv.org/abs/1504.01896
 file_url: https://arxiv.org/pdf/1504.01896.pdf
 filename: "The Metropolis–Hastings algorithm (1504.01896).pdf"
+
+---
+title: "Distributed Deep Q-Learning"
+year: 2015
+arxiv: https://arxiv.org/abs/1508.04186
+file_url: https://arxiv.org/pdf/1508.04186.pdf
+filename: "Distributed Deep Q-Learning (1508.04186).pdf"
+
+---
+title: "Visualizing and Understanding Convolutional Networks"
+year: 2013
+arxiv: https://arxiv.org/abs/1311.2901
+file_url: https://arxiv.org/pdf/1311.2901.pdf
+filename: "Visualizing and Understanding Convolutional Networks (1311.2901).pdf"
