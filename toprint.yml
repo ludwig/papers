@@ -814,3 +814,16 @@ year: 2013
 arxiv: https://arxiv.org/abs/1311.2901
 file_url: https://arxiv.org/pdf/1311.2901.pdf
 filename: "Visualizing and Understanding Convolutional Networks (1311.2901).pdf"
+
+---
+title: "Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach"
+year: 2018
+journal: Physical Review Letters
+filename: "10.1103@PhysRevLett.120.024102.pdf"
+
+---
+title: "Hybrid Forecasting of Chaotic Processes: Using Machine Learning in Conjunction with a Knowledge-Based Model"
+year: 2018
+arxiv: https://arxiv.org/abs/1803.04779
+file_url: https://arxiv.org/pdf/1803.04779.pdf
+filename: "Hybrid Forecasting of Chaotic Processes (1803.04779).pdf"
