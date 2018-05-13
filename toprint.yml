@@ -834,3 +834,36 @@ year: 2018
 arxiv: https://arxiv.org/abs/1801.02852
 file_url: "https://arxiv.org/pdf/1801.02852.pdf"
 filename: "Distributed Deep Reinforcement Learning - Learn how to play Atari games in 21 minutes (1801.02852).pdf"
+
+---
+title: "A Neural Algorithm of Artistic Style"
+year: 2015
+arxiv: https://arxiv.org/abs/1508.06576
+file_url: https://arxiv.org/pdf/1508.06576.pdf
+filename: "A Neural Algorithm of Artistic Style (1508.06576).pdf"
+
+---
+title: "Image Inpainting for Irregular Holes Using Partial Convolutions"
+arxiv: https://arxiv.org/abs/1804.07723
+url: https://news.developer.nvidia.com/new-ai-imaging-technique-reconstructs-photos-with-realistic-results/
+
+---
+title: "Averaging Weights Leads to Wider Optima and Better Generalization"
+arxiv: https://arxiv.org/abs/1803.05407
+notes: |
+    linked from various twitter accounts and medium blog posts
+    https://medium.com/@hortonhearsafoo/adding-a-cutting-edge-deep-learning-training-technique-to-the-fast-ai-library-2cd1dba90a49
+
+---
+title: "Revisiting Small Batch Training For Deep Neural Networks"
+arxiv: https://arxiv.org/abs/1804.07612
+file_url: https://arxiv.org/pdf/1804.07612.pdf
+filename: "Revisiting Small Batch Training For Deep Neural Networks (1804.07612).pdf"
+
+---
+title: "Neural networks and rational functions"
+year: 2017
+arxiv: https://arxiv.org/abs/1706.03301
+file_url: https://arxiv.org/pdf/1706.03301.pdf
+filename: "Neural networks and rational functions (1706.03301).pdf"
+notes: linked from https://news.ycombinator.com/item?id=16996671 and https://repl.it/site/blog/guest-op-nn

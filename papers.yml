@@ -251,3 +251,10 @@ arxiv: https://arxiv.org/abs/1803.03243v1
 file_url: https://arxiv.org/pdf/1803.03243v1.pdf
 filename: "Domain Adaptive Faster R-CNN for Object Detection in the Wild (1803.03243v1).pdf"
 
+---
+title: "Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization"
+year: 2016
+arxiv: https://arxiv.org/abs/1603.06560
+file_url: https://arxiv.org/pdf/1603.06560.pdf
+filename: "Hyperband - A Novel Bandit-Based Approach to Hyperparameter Optimization (1603.06560).pdf"
+
