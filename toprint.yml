@@ -867,3 +867,34 @@ arxiv: https://arxiv.org/abs/1706.03301
 file_url: https://arxiv.org/pdf/1706.03301.pdf
 filename: "Neural networks and rational functions (1706.03301).pdf"
 notes: linked from https://news.ycombinator.com/item?id=16996671 and https://repl.it/site/blog/guest-op-nn
+
+---
+title: "A Neural Conversational Model"
+year: 2015
+authors:
+- Quoc V. Le
+arxiv: https://arxiv.org/abs/1506.05869
+file_url: https://arxiv.org/pdf/1506.05869.pdf
+filename: "A Neural Conversational Model (1506.05869).pdf"
+notes: linked from https://news.ycombinator.com/item?id=9760864
+
+---
+title: "A Neural Probabilistic Language Model"
+authors:
+- Yoshua Bengio
+file_url: http://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model.pdf
+filename: "1839-a-neural-probabilistic-language-model.pdf"
+
+---
+title: "Sequence to Sequence Learning with Neural Networks"
+authors:
+- Quoc V. Le
+file_url: http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
+filename: 5346-sequence-to-sequence-learning-with-neural-networks.pdf
+
+---
+title: "Multiphase Numerical Modeling of Dendritic Solidification for Jigsaw Puzzle Generation"
+file_url: https://n-e-r-v-o-u-s.com/education/papers/nervousSystem_2012-jigsaw-puzzle-paper.pdf
+filename: nervousSystem_2012-jigsaw-puzzle-paper.pdf
+notes: linked from Bonnie Eisenman's talk https://www.youtube.com/watch?v=y6N_edk1s00
+
