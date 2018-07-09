@@ -905,3 +905,22 @@ file_url: https://arxiv.org/pdf/1805.07470.pdf
 filename: "Solving the Rubik's Cube Without Human Knowledge (1805.07470).pdf"
 notes: linked from https://www.technologyreview.com/s/611281/a-machine-has-figured-out-rubiks-cube-all-by-itself/
 
+---
+title: "Cautious Deep Learning"
+arxiv: https://arxiv.org/abs/1805.09460
+file_url: https://arxiv.org/pdf/1805.09460.pdf
+filename: "Cautious Deep Learning (1805.09460).pdf"
+
+---
+title: "Scalable Training of Artificial Neural Networks with Adaptive Sparse Connectivity inspired by Network Science"
+arxiv: https://arxiv.org/abs/1707.04780
+file_url: https://arxiv.org/pdf/1707.04780.pdf
+filename: "Sparse Evolutionary Training (1707.04780).pdf"
+notes: linked from https://eandt.theiet.org/content/articles/2018/06/artificial-neural-networks-could-run-on-cheap-computers-using-new-method/
+
+---
+title: "Deep Quaternion Networks"
+arxiv: https://arxiv.org/abs/1712.04604
+file_url: https://arxiv.org/abs/1712.04604
+filename: "Deep Quaternion Networks (1712.04604).pdf"
+
