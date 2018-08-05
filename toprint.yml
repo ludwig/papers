@@ -924,3 +924,36 @@ arxiv: https://arxiv.org/abs/1712.04604
 file_url: https://arxiv.org/abs/1712.04604
 filename: "Deep Quaternion Networks (1712.04604).pdf"
 
+---
+title: "Learning to learn by gradient descent by gradient descent"
+filename: "Learning to learn by gradient descent by gradient descent (1606.04474).pdf"
+
+---
+title: "Sample-Efficient Deep RL with Generative Adversarial Tree Search"
+filename: "Sample-Efficient Deep RL with Generative Adversarial Tree Search (1806.05780).pdf"
+
+---
+title: "Learning to Search with MCTSnets (1802.04697).pdf"
+year: 2018
+arxiv: https://arxiv.org/abs/1802.04697
+file_url: https://arxiv.org/pdf/1802.04697.pdf
+filename: "Learning to Search with MCTSnets (1802.04697).pdf"
+notes: linked from https://deepmind.com/blog/deepmind-papers-icml-2018/
+
+---
+title: "Efficient Deep Learning for Stereo Matching"
+file_url: https://www.cs.toronto.edu/~urtasun/publications/luo_etal_cvpr16.pdf
+filename: "Efficient Deep Learning for Stereo Matching (luo_etal_cvpr16).pdf"
+notes: linked from '#cnn-pose-estimation' slack channel
+
+---
+title: "Understanding deep learning requires rethinking generalization"
+arxiv: https://arxiv.org/abs/1611.03530
+file_url: https://arxiv.org/pdf/1611.03530.pdf
+filename: "Understanding deep learning requires rethinking generalization (1611.03530).pdf"
+
+---
+title: "The simple essence of automatic differentiation"
+arxiv: https://arxiv.org/abs/1804.00746
+file_url: https://arxiv.org/pdf/1804.00746.pdf
+filename: "The simple essence of automatic differentiation (1804.00746).pdf"
