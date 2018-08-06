@@ -957,3 +957,42 @@ title: "The simple essence of automatic differentiation"
 arxiv: https://arxiv.org/abs/1804.00746
 file_url: https://arxiv.org/pdf/1804.00746.pdf
 filename: "The simple essence of automatic differentiation (1804.00746).pdf"
+
+---
+title: "Learning Transferable Architectures for Scalable Image Recognition"
+year: 2018
+arxiv: https://arxiv.org/abs/1707.07012
+file_url: https://arxiv.org/pdf/1707.07012.pdf
+filename: "Learning Transferable Architectures for Scalable Image Recognition (1707.07012).pdf"
+notes: linked from https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319
+
+---
+title: "Efficient Neural Architecture Search via Parameter Sharing (1802.03268).pdf"
+year: 2018
+arxiv: https://arxiv.org/abs/1802.03268
+file_url: https://arxiv.org/pdf/1802.03268.pdf
+filename: "Efficient Neural Architecture Search via Parameter Sharing (1802.03268).pdf"
+notes: linked from https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319
+
+---
+title: "Attention Is All You Need (1706.03762).pdf"
+year: 2017
+arxiv: https://arxiv.org/abs/1706.03762
+file_url: https://arxiv.org/pdf/1706.03762.pdf
+filename: "Attention Is All You Need (1706.03762).pdf"
+
+---
+title: "Neural Turing Machines (1410.5401).pdf"
+year: 2014
+arxiv: https://arxiv.org/abs/1410.5401
+file_url: https://arxiv.org/pdf/1410.5401.pdf
+filename: "Neural Turing Machines (1410.5401).pdf"
+notes: linked from https://analyticsindiamag.com/memory-enhanced-neural-networks-might-be-the-next-big-thing/
+
+---
+title: "Differentiable plasticity: training plastic neural networks with backpropagation"
+year: 2018
+url: https://eng.uber.com/differentiable-plasticity/
+arxiv: https://arxiv.org/abs/1804.02464
+file_url: https://arxiv.org/pdf/1804.02464.pdf
+filename: "Differentiable plasticity - training plastic neural networks with backpropagation (1804.02464).pdf"
