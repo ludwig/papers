@@ -1004,3 +1004,30 @@ url: https://blog.openai.com/learning-dexterity/
 arxiv: https://arxiv.org/abs/1808.00177
 file_url: https://arxiv.org/pdf/1808.00177.pdf
 filename: "Learning Dexterous In-Hand Manipulation (1808.00177).pdf"
+
+---
+title: "Maximum Entropy Inverse Reinforcement Learning"
+filename: "Maximum Entropy Inverse Reinforcement Learning (AAAI08-227).pdf"
+
+---
+filename: "Watch This - Scalable Cost-Function Learning for Path Planning in Urban Environments (1607.02329).pdf"
+
+---
+filename: "When is a Linear Control System Optimal (kalman1964).pdf"
+
+---
+filename: "Subgradient Methods for Maximum Margin Structured Learning (Ratliff et al, 2006).pdf"
+
+---
+filename: "Online Subgradient Methods for Structured Prediction (ratliff_nathan_2007_3).pdf"
+
+---
+year: 2012
+filename: "Activity Forecasting (KZBH-ECCV12).pdf"
+
+---
+title: "Progressive Neural Architecture Search"
+year: 2018
+arxiv: https://arxiv.org/abs/1712.00559
+file_url: https://arxiv.org/pdf/1712.00559.pdf
+filename: "Progressive Neural Architecture Search (1712.00559).pdf"
