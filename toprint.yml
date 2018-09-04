@@ -1031,3 +1031,14 @@ year: 2018
 arxiv: https://arxiv.org/abs/1712.00559
 file_url: https://arxiv.org/pdf/1712.00559.pdf
 filename: "Progressive Neural Architecture Search (1712.00559).pdf"
+
+---
+title: "FaceNet: A Unified Embedding for Face Recognition and Clustering"
+arxiv: https://arxiv.org/abs/1503.03832
+file_url: https://arxiv.org/pdf/1503.03832.pdf
+filename: "FaceNet - A Unified Embedding for Face Recognition and Clustering (1503.03832).pdf"
+notes: |
+    linked from two articles
+    https://towardsdatascience.com/lossless-triplet-loss-7e932f990b24
+    https://omoindrot.github.io/triplet-loss
+
