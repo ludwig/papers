@@ -1042,3 +1042,78 @@ notes: |
     https://towardsdatascience.com/lossless-triplet-loss-7e932f990b24
     https://omoindrot.github.io/triplet-loss
 
+---
+title: "Everybody Dance Now"
+year: 2018
+arxiv: https://arxiv.org/abs/1808.07371
+file_url: https://arxiv.org/pdf/1808.07371.pdf
+filename: "Everybody Dance Now (1808.07371).pdf"
+
+---
+title: "Essentially No Barriers in Neural Network Energy Landscape"
+filename: "Essentially No Barriers in Neural Network Energy Landscape (draxler18a).pdf"
+notes: |
+    Paper linked from https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914
+    Supplementary PDF http://proceedings.mlr.press/v80/draxler18a/draxler18a-supp.pdf
+
+---
+title: "Identifying and attacking the saddle point problem in high-dimensional non-convex optimization"
+filename: "Identifying and attacking the saddle point problem in high-dimensional non-convex optimization (1406.2572).pdf"
+
+---
+title: "An Alternative View: When Does SGD Escape Local Minima"
+filename: "An Alternative View - When Does SGD Escape Local Minima (1802.06175).pdf"
+
+---
+title: "Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks"
+year: 2018
+arxiv: https://arxiv.org/abs/1710.11029
+file_url: https://arxiv.org/pdf/1710.11029.pdf
+filename: "Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks (1710.11029).pdf"
+
+---
+title: "Unsupervised Domain Adaptation by Backpropagation"
+arxiv: https://arxiv.org/abs/1409.7495
+filename: "Unsupervised Domain Adaptation by Backpropagation (1409.7495).pdf"
+
+---
+title: "The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo"
+year: 2011
+arxiv: https://arxiv.org/abs/1111.4246
+filename: "The No-U-Turn Sampler - Adaptively Setting Path Lengths in Hamiltonian Monte Carlo (1111.4246).pdf"
+
+---
+title: "Bayesian Computing with INLA: A Review"
+year: 2016
+arxiv: https://arxiv.org/abs/1604.00860
+filename: "Bayesian Computing with INLA - A Review (1604.00860).pdf"
+
+---
+title: "Constrained Bayesian Optimization with Noisy Experiments"
+year: 2018
+url: https://projecteuclid.org/euclid.ba/1533866666
+file_url: https://projecteuclid.org/download/pdfview_1/euclid.ba/1533866666
+blog_post: https://research.fb.com/efficient-tuning-of-online-systems-using-bayesian-optimization/
+filename: "Constrained Bayesian Optimization with Noisy Experiments (euclid.ba.1533866666).pdf"
+
+---
+title: "UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction"
+arxiv: https://arxiv.org/abs/1802.03426
+file_url: https://arxiv.org/pdf/1802.03426.pdf
+filename: "UMAP - Uniform Manifold Approximation and Projection for Dimension Reduction (1802.03426).pdf"
+notes: linked from SciPy 2018 talk about UMAP
+
+---
+title: "Categorical Reparameterization with Gumbel-Softmax"
+arxiv: https://arxiv.org/abs/1611.01144
+file_url: https://arxiv.org/pdf/1611.01144.pdf
+filename: "Categorical Reparameterization with Gumbel-Softmax (1611.01144).pdf"
+
+---
+title: "Contextual Decision Processes with Low Bellman Rank are PAC-Learnable"
+arxiv: https://arxiv.org/abs/1610.09512
+file_url: https://arxiv.org/pdf/1610.09512.pdf
+url: https://www.microsoft.com/en-us/research/video/towards-a-theory-for-sample-efficient-reinforcement-learning-with-rich-observations/
+youtube: https://www.youtube.com/watch?v=VBkUmD5Em2k
+filename: "Contextual Decision Processes with Low Bellman Rank are PAC-Learnable (1610.09512).pdf"
+
