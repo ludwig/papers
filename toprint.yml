@@ -1117,3 +1117,101 @@ url: https://www.microsoft.com/en-us/research/video/towards-a-theory-for-sample-
 youtube: https://www.youtube.com/watch?v=VBkUmD5Em2k
 filename: "Contextual Decision Processes with Low Bellman Rank are PAC-Learnable (1610.09512).pdf"
 
+---
+title: "Better Mixing via Deep Representations"
+year: 2012
+arxiv: https://arxiv.org/abs/1207.4404
+file_url: https://arxiv.org/pdf/1207.4404.pdf
+filename: "Better Mixing via Deep Representations (1207.4404).pdf"
+
+---
+title: "Stacked Hourglass Networks for Human Pose Estimation"
+filename: "Stacked Hourglass Networks for Human Pose Estimation (1603.06937).pdf"
+arxiv: https://arxiv.org/abs/1603.06937
+
+---
+title: "Associative Embedding: End-to-End Learning for Joint Detection and Grouping"
+filename: "Associative Embedding - End-to-End Learning for Joint Detection and Grouping (1611.05424).pdf"
+arxiv: https://arxiv.org/abs/1611.05424
+
+---
+title: "Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization"
+filename: "Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization (2013).pdf"
+
+---
+title: "An Introduction to Probabilistic Programming"
+arxiv: https://arxiv.org/abs/1809.10756
+file_url: https://arxiv.org/pdf/1809.10756.pdf
+filename: "An Introduction to Probabilistic Programming (1809.10756).pdf"
+notes: This is a full book!
+
+---
+title: "SFV: Reinforcement Learning of Physical Skills from Videos"
+url: https://xbpeng.github.io/projects/SFV/
+file_url: https://arxiv.org/pdf/1810.03599.pdf
+filename: "SFV - Reinforcement Learning of Physical Skills from Videos (1810.03599).pdf"
+
+---
+title: "Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World"
+filename: "Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World (1703.06907).pdf"
+
+---
+title: "Implicit 3D Orientation Learning for 6D Object Detection from RGB Images"
+year: 2018
+filename: "http://openaccess.thecvf.com/content_ECCV_2018/papers/Martin_Sundermeyer_Implicit_3D_Orientation_ECCV_2018_paper.pdf"
+
+---
+title: "Through-Wall Human Pose Estimation Using Radio Signals"
+year: 2018
+url: http://rfpose.csail.mit.edu/
+filename: "http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf"
+notes: Linked from this Two Minute Papers video https://www.youtube.com/watch?v=kBFMsY5ZP0o
+
+---
+title: "Data Augmentation Generative Adversarial Networks"
+year: 2017
+arxiv: https://arxiv.org/abs/1711.04340
+file_url: https://arxiv.org/pdf/1711.04340.pdf
+filename: "Data Augmentation Generative Adversarial Networks (1711.04340).pdf"
+
+---
+title: "BAGAN: Data Augmentation with Balancing GAN"
+year: 2018
+arxiv: https://arxiv.org/abs/1803.09655
+file_url: https://arxiv.org/pdf/1803.09655.pdf
+filename: "BAGAN - Data Augmentation with Balancing GAN (1803.09655).pdf"
+
+---
+title: "Cross-Entropy Loss Leads to Poor Margins"
+conference: ICLR 2019
+url: https://openreview.net/pdf?id=ByfbnsA9Km
+notes: Still under review (anonymous authors). It might explain why adversarial examples are an issue.
+
+---
+title: "ALCN: Meta-Learning for Contrast Normalization Applied to Robust 3D Pose Estimation"
+filename: "ALCN - Meta-Learning for Contrast Normalization Applied to Robust 3D Pose Estimation (1708.09633).pdf"
+
+--
+title: "Approximating the multiclass ROC by pairwise analysis"
+filename: "Approximating the multiclass ROC by pairwise analysis (10.1.1.108.3250).pdf"
+
+---
+title: "DARTS: Differentiable Architecture Search"
+arxiv: https://arxiv.org/abs/1806.09055
+file_url: https://arxiv.org/pdf/1806.09055.pdf
+filename: "DARTS - Differentiable Architecture Search (1806.09055).pdf"
+
+---
+title: "Large-Scale Evolution of Image Classifiers"
+arxiv: https://arxiv.org/abs/1703.01041
+file_url: https://arxiv.org/pdf/1703.01041.pdf
+url: https://ai.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html
+filename: "Large-Scale Evolution of Image Classifiers (1703.01041).pdf"
+
+---
+title: "Re-purposing Compact Neuronal Circuit Policies to Govern Reinforcement Learning Tasks (1809.04423).pdf"
+arxiv: https://arxiv.org/abs/1809.04423
+file_url: https://arxiv.org/pdf/1809.04423.pdf
+url: https://www.tuwien.ac.at/en/news/news_detail/article/126273/
+video_url: https://www.youtube.com/watch?v=Vwydc2ez9Wc
+filename: "Re-purposing Compact Neuronal Circuit Policies to Govern Reinforcement Learning Tasks (1809.04423).pdf"
