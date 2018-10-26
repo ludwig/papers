@@ -1215,3 +1215,28 @@ file_url: https://arxiv.org/pdf/1809.04423.pdf
 url: https://www.tuwien.ac.at/en/news/news_detail/article/126273/
 video_url: https://www.youtube.com/watch?v=Vwydc2ez9Wc
 filename: "Re-purposing Compact Neuronal Circuit Policies to Govern Reinforcement Learning Tasks (1809.04423).pdf"
+
+---
+title: "Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics"
+filename: "Dex-Net 2.0 - Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics (1703.09312).pdf"
+
+---
+title: "Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences"
+file_url: http://proceedings.mlr.press/v78/mahler17a/mahler17a.pdf
+filename: "Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences (mahler17a).pdf"
+
+---
+title: "Segmenting Unknown 3D Objects from Real Depth Images using Mask R-CNN Trained on Synthetic Point Clouds"
+filename: "Segmenting Unknown 3D Objects from Real Depth Images using Mask R-CNN Trained on Synthetic Point Clouds (1809.05825).pdf"
+
+---
+title: "Robot Bed-Making: Deep Transfer Learning Using Depth Sensing of Deformable Fabric"
+filename: "Robot Bed-Making - Deep Transfer Learning Using Depth Sensing of Deformable Fabric (1809.09810).pdf"
+
+---
+title: "On the Margin Theory of Feedforward Neural Networks"
+filename: "On the Margin Theory of Feedforward Neural Networks (1810.05369).pdf"
+
+---
+title: "Near-Optimal Representation Learning for Hierarchical Reinforcement Learning"
+filename: "Near-Optimal Representation Learning for Hierarchical Reinforcement Learning (1810.01257).pdf"
