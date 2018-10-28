@@ -1191,7 +1191,7 @@ notes: Still under review (anonymous authors). It might explain why adversarial 
 title: "ALCN: Meta-Learning for Contrast Normalization Applied to Robust 3D Pose Estimation"
 filename: "ALCN - Meta-Learning for Contrast Normalization Applied to Robust 3D Pose Estimation (1708.09633).pdf"
 
---
+---
 title: "Approximating the multiclass ROC by pairwise analysis"
 filename: "Approximating the multiclass ROC by pairwise analysis (10.1.1.108.3250).pdf"
 
@@ -1240,3 +1240,16 @@ filename: "On the Margin Theory of Feedforward Neural Networks (1810.05369).pdf"
 ---
 title: "Near-Optimal Representation Learning for Hierarchical Reinforcement Learning"
 filename: "Near-Optimal Representation Learning for Hierarchical Reinforcement Learning (1810.01257).pdf"
+
+---
+title: "A Variational U-Net for Conditional Appearance and Shape Generation"
+year: 2018
+url: https://compvis.github.io/vunet/
+arxiv: https://arxiv.org/abs/1804.04694
+github: https://github.com/CompVis/vunet
+file_url: https://arxiv.org/pdf/1804.04694.pdf
+filename: "A Variational U-Net for Conditional Appearance and Shape Generation (1804.04694).pdf"
+notes: |
+    Linked from Two Minute Papers episode titled "This AI Learned How To Generate Human Appearance"
+    https://www.youtube.com/watch?v=F-00NhYUnH4
+
