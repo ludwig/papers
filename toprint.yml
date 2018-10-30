@@ -1253,3 +1253,21 @@ notes: |
     Linked from Two Minute Papers episode titled "This AI Learned How To Generate Human Appearance"
     https://www.youtube.com/watch?v=F-00NhYUnH4
 
+---
+title: "A Differential Equation for Modeling Nesterov’s Accelerated Gradient Method: Theory and Insights"
+year: 2015
+arxiv: https://arxiv.org/abs/1503.01243
+filename: "A Differential Equation for Modeling Nesterov’s Accelerated Gradient Method - Theory and Insights (1503.01243).pdf"
+
+---
+title: "Large-Scale Study of Curiosity-Driven Learning"
+url: https://pathak22.github.io/large-scale-curiosity/
+github: https://github.com/openai/large-scale-curiosity
+arxiv: https://arxiv.org/abs/1808.04355
+file_url: https://arxiv.org/pdf/1808.04355.pdf
+filename: "Large-Scale Study of Curiosity-Driven Learning (1808.04355).pdf"
+notes: |
+    Linked from two videos
+    * Siraj Raval: https://www.youtube.com/watch?v=aom4RMOHezc
+    * Arxiv Insights: https://www.youtube.com/watch?v=0Ey02HT_1Ho
+
