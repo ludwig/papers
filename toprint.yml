@@ -1271,3 +1271,15 @@ notes: |
     * Siraj Raval: https://www.youtube.com/watch?v=aom4RMOHezc
     * Arxiv Insights: https://www.youtube.com/watch?v=0Ey02HT_1Ho
 
+---
+title: "Robust Solving of Optical Motion Capture Data by Denoising"
+url: https://montreal.ubisoft.com/en/robust-solving-of-optical-motion-capture-data-by-denoising/
+file_url: https://montreal.ubisoft.com/wp-content/uploads/2018/05/neuraltracker.pdf
+filename: "Robust Solving of Optical Motion Capture Data by Denoising (neuraltracker, Ubisoft 2018).pdf"
+notes: Saw it on https://laforge.ubisoft.com
+
+---
+title: "Deep Imbalanced Learning for Face Recognition and Attribute Prediction"
+arxiv: https://arxiv.org/abs/1806.00194
+filename: "Deep Imbalanced Learning for Face Recognition and Attribute Prediction (1806.00194).pdf"
+
