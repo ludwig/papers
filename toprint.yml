@@ -34,6 +34,7 @@ year: 2005
 classic: true
 arxiv: https://arxiv.org/abs/1502.03167
 file_url: https://arxiv.org/pdf/1502.03167.pdf
+filename: "Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift (1502.03167).pdf"
 notes: This is the mini-batch paper. Make sure to print this one.
 
 ---
@@ -1282,4 +1283,29 @@ notes: Saw it on https://laforge.ubisoft.com
 title: "Deep Imbalanced Learning for Face Recognition and Attribute Prediction"
 arxiv: https://arxiv.org/abs/1806.00194
 filename: "Deep Imbalanced Learning for Face Recognition and Attribute Prediction (1806.00194).pdf"
+
+---
+title: "Spatial Transformer Networks"
+year: 2016
+arxiv: https://arxiv.org/abs/1506.02025
+file_url: https://arxiv.org/pdf/1506.02025.pdf
+filename: "Spatial Transformer Networks (1506.02025).pdf"
+
+---
+title: "Improving predictive inference under covariate shift by weighting the log-likelihood function"
+url: https://www.sciencedirect.com/science/article/pii/S0378375800001154
+file_url: "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.370.4921&rep=rep1&type=pdf"
+filename: "Improving predictive inference under covariate shift by weighting the log-likelihood function (doi 10.1.1.370.4921).pdf"
+
+---
+title: "A Literature Survey on Domain Adaptation of Statistical Classifiers"
+file_url: http://www.mysmu.edu/faculty/jingjiang/papers/da_survey.pdf
+filename: "A Literature Survey on Domain Adaptation of Statistical Classifiers (da_survey, 2018).pdf"
+
+---
+title: "Apprenticeship Learning via Inverse Reinforcement Learning"
+authors:
+- Pieter Abbeel
+- Andrew Y. Ng
+file_url: https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf
 
